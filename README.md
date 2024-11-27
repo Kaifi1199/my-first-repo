@@ -8,11 +8,3 @@ Use GitHub Apps: GitHub Apps are tools that can extend GitHub's functionality. F
 
 
 
-GitHub uses Git software, which provides:
-Distributed version control
-Access control
-Bug tracking
-Software feature requests
-Task management
-Continuous integration
-Wikis for every project 
