@@ -15,4 +15,3 @@ Software feature requests
 Task management
 Continuous integration
 Wikis for every project 
-
