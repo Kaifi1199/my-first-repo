@@ -7,4 +7,12 @@ Track changes: GitHub allows users to track and manage changes to their code ove
 Use GitHub Apps: GitHub Apps are tools that can extend GitHub's functionality. For example, a GitHub App can open issues, comment on pull requests, or manage projects. 
 
 
+GitHub uses Git software, which provides:
+Distributed version control
+Access control
+Bug tracking
+Software feature requests
+Task management
+Continuous integration
+Wikis for every project 
 
